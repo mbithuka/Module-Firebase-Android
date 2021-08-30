@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RoadRescue</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiZmluZHVzaGVyZSIsImEiOiJjazNkYWhwM2gxNDQ4M21xaGJkcWxqcHdsIn0.kskBWYX7uy0_EbDJ-I-wJg</string>
+</resources>
